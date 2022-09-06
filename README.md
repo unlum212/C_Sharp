@@ -1,2 +1,2 @@
-# C_Sharp
-C#
+# Coding can be written without using a Switch_Case
+Let's briefly explain the code we wrote. We constructed a few case statements to analyze the event in a simple way. We actually have a clean piece of code. The Ping method in the RoleProvider class represents the process of sending messages over different systems using an enum constant. We determine how it should behave in the call we make in the Main method.
